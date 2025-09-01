@@ -1,10 +1,10 @@
-# NEBUSOKE HIGA — FGC 2025 🚀
+# NEBUSOKU HIGA — FGC 2025 🚀
 
-Welcome to NEBUSOKE HIGA!  
+Welcome to NEBUSOKU HIGA!  
 This is the prototype development space for **[First Global Challenge 2025](https://first.global/)**.
 
 ## 🔧 Main Project
-- [fgc2025-robot-proto](https://github.com/NEBUSOKE-HIGA/fgc2025-robot-proto)
+- [fgc2025-robot-proto](https://github.com/NEBUSOKU-HIGA/fgc2025-robot-proto)
 
 ## 🤝 Team Values
 
